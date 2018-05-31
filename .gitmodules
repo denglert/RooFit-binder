@@ -1,0 +1,3 @@
+[submodule "TRooFit"]
+	path = TRooFit
+	url = git@github.com:will-cern/TRooFit.git
